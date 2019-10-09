@@ -38,8 +38,9 @@ Pages = [
     "robin_dict.md",
     "trie.md",
     "linked_list.md",
-    "mutable_linked_list.md"
+    "mutable_linked_list.md",
     "intset.md",
     "sorted_containers.md",
+    "sparse_int_set.md"
 ]
 ```
